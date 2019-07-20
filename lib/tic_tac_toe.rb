@@ -71,7 +71,7 @@ WIN_COMBINATIONS = [ # All possible winning combinations are included here. Thes
     end
   end
 
-  def turn(input, token)
+  def turn(input)
     # puts "Howdy! Select a position between 1-9."
     input = nil
     input = gets
